@@ -1,0 +1,433 @@
+﻿INTEREST,Distance(KM),Travel Time(Min),nearby_places,Title,url,p_rating,count,itemId,Unique GENRE,UNIQUE INTEREST,Genre
+"Adventureous ,Relaxation,Romantic",139.16km,137.7166667,NONE,"Thandiani, Abbottabad, PK",,2.2,158,1,Nature & Parks,Relaxation,Nature & Parks
+"Adventureous ,Relaxation,Romantic",80.79km,150.6666667,NONE,"Dunga Gali Pine Line Track, Abbottabad, PK",,4.6,652,2,Outdoor Activities,Romantic,Nature & Parks
+"Adventureous ,Relaxation",81.72km,152.5833333,NONE,"Mukshpuri Top, Abbottabad, PK",,5,783,3,Sights & Landmarks,Adventureous ,Outdoor Activities
+"Adventureous ,Relaxation",90.51km,179.1666667,NONE,"Miranjani, Abbottabad, PK",,4.9,482,4,Shopping,Historical Heritage,Nature & Parks
+Historical Heritage,133.04km,124.5833333,NONE,"Old Lockhart House, Abbottabad, PK",,4.2,890,5,Water & Amusement Parks,,Sights & Landmarks
+"Relaxation,Romantic",148.83km,152.8833333,NONE,"Samandar Katha Lake, Abbottabad, PK",,1.9,656,6,Monuments & Statues,,Sights & Landmarks
+"Adventureous ,Relaxation,Romantic",86.01km,164.3,NONE,"Green Spot, Abbottabad, PK",,4.5,350,7,Theme Parks,,Nature & Parks
+"Relaxation,Romantic ",622.91km,412,NONE,"Bahawalpur Trade Center, Bhawalpur, PK",,2,700,8,Gardens,,Shopping
+Historical Heritage,18.73km,33.83333333,NONE,"Abbasi Mosque, Bhawalpur, PK",,3.2,25,9,Shopping Malls,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",658.7km,431.15,NONE,"Head Panjnad, Bhawalpur, PK",,5,345,10,Museums,,Sights & Landmarks
+"Relaxation,Romantic",623.27km,413.6333333,NONE,"Gulzar-e-Sadiq, Bhawalpur, PK",,4.8,120,11,Points of Interest & Landmarks,,Nature & Parks
+"Relaxation,Romantic",678.8km,477.6666667,NONE,"Lal Suhanra National Park, Bhawalpur, PK",,1.5,456,12,Geologic Formations,,Nature & Parks
+"Relaxation,Romantic",622.01km,410.5,NONE,"Bahawalpur Zoo, Bhawalpur, PK",,3.5,990,13,Bodies of Water,,Outdoor Activities
+Historical Heritage,713.29km,495.2,NONE,"The Abbasi Royal Graveyard, Bhawalpur, PK",,4,222,14,Military Bases & Facilities,,Sights & Landmarks
+"Historical Heritage,Relaxation",625.48km,420.1333333,NONE,"Noor Mahal, Bhawalpur, PK",,1.5,43,15,Historic Sites,,Sights & Landmarks
+Historical Heritage,656.67km,424.9666667,NONE,"Tomb of Bibi Jawindi, Bhawalpur, PK",,4.2,678,16,Valleys,,Sights & Landmarks
+Historical Heritage,623.94km,414.3833333,NONE,"Darbar Mahal, Bhawalpur, PK",,2,789,17,Scenic Walking Areas,,Sights & Landmarks
+Historical Heritage,629.8km,424.1333333,NONE,"Jalaluddin Surkh-Posh Bukhari, Bhawalpur, PK",,3.2,567,18,Sacred & Religious Sites,,Sights & Landmarks
+Historical Heritage,622.97km,413.6666667,NONE,"Jamia Masjid Al Sadiq, Bhawalpur, PK",,3.8,245,19,Waterfalls,,Sights & Landmarks
+Historical Heritage,568.59km,405.1,NONE,"Islam Barrage, Bhawalpur, PK",,4.5,890,20,Mountains,,Sights & Landmarks
+"Historical Heritage,Adventureous ",713.36km,495.2166667,NONE,"Derawar Fort, Bhawalpur, PK",,4.2,13,21,Scenic Drives,,Sights & Landmarks
+"Relaxation,Romantic,Adventureous ",623.31km,413.5833333,NONE,"Ss World Park, Bhawalpur, PK",,1,123,22,Nature & Wildlife Areas,,Water & Amusement Parks
+"Relaxation,Romantic,Adventureous ",347.42km,425.4166667,NONE,"Babusar Pass, Chillas, PK",,5,67,23,Hiking Trails,,Sights & Landmarks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",389.38km,490.95,NONE,"Chitral Valley, Chitral, PK",,3.9,412,24,Fun & Games,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",401.62km,522.45,NONE,"Bumburet Valley, Chitral, PK",,4.8,25,25,Playgrounds,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",#VALUE!,#VALUE!,NONE,"Chitral Gol National Park, Chitral, PK",,3.5,654,26,Bridges,,Nature & Parks
+"Relaxation,Adventureous ,Historical Heritage",546.89km,#VALUE!,NONE,"Shandur Pass, Chitral, PK",,2.9,134,27,Dams,,Outdoor Activities
+"Relaxation,Romantic,Adventureous ",445.48km,#VALUE!,NONE,"Garam Chashma, Chitral, PK",,1.7,560,28,Forests,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",#VALUE!,#VALUE!,NONE,"Karambar Lake, Chitral, PK",,5,348,29,More,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",391.5km,503.0166667,NONE,"Kalasha Valleys, Chitral, PK",,3.7,48,30,Arenas & Stadiums,,Nature & Parks
+"Relaxation,Adventureous ",#VALUE!,#VALUE!,NONE,"Tirich Mir, Chitral, PK",,1.5,654,31,Castles,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",399.03km,519.8166667,NONE,"Rumbur valley, Chitral, PK",,4.2,56,32,Ancient Ruins,,Nature & Parks
+Historical Heritage,312.65km,207.1166667,NONE,"University of Agriculture, Faisalabad, PK",,2.2,158,33,Off-Road & ATV Trails,,Sights & Landmarks
+Historical Heritage,321.59km,226.55,NONE,"Government College University Faisalabad, Faisalabad, PK",,4.6,652,34,"Sights & Landmarks,Food",,Sights & Landmarks
+Historical Heritage,320.38km,222.7666667,NONE,"Gumti Water Fountain, Faisalabad, PK",,5,783,35,Temple,,Monuments & Statues
+"Adventureous ,Romantic",318.81km,219.2,NONE,"Sindbad Amusement Park, Faisalabad, PK",,4.9,482,36,Zoos & Aquariums,,Water & Amusement Parks
+"Adventureous ,Romantic",318.81km,219.2,NONE,"Sindbad Amusement Park, Faisalabad, PK",,4.2,890,37,"Sights & Landmarks, Historic",,Theme Parks
+Romantic,319.89km,222.5666667,NONE,"Jinnah Gardens, Faisalabad, PK",,1.9,656,38,,,Gardens
+Relaxation,309km,204.9833333,NONE,"Gatwala Wildlife Park, Faisalabad, PK",,4.5,350,39,,,Nature & Parks
+"Relaxation,Romantic",321.99km,223.5833333,NONE,"Kohinoor One, Faisalabad, PK",,2,700,40,,,Shopping Malls
+"Relaxation,Romantic",319.33km,221.6333333,NONE,"Abdulrehman resort, Faisalabad, PK",,3.2,25,41,,,Water & Amusement Parks
+"Relaxation,Romantic",319.89km,222.5666667,NONE,"Jinnah Gardens, Faisalabad, PK",,5,345,42,,,Nature & Parks
+"Relaxation,Romantic",323.73km,227.2666667,NONE,"Sitara Mall, Faisalabad, PK",,4.8,120,43,,,Shopping Malls
+Historical Heritage,320.05km,222.7833333,NONE,"Sir Charles James Lyall Monument, Faisalabad, PK",,1.5,456,44,,,Monuments & Statues
+"Adventureous ,Romantic",317.52km,216,NONE,"Aqua Land Water Park Majorca, Faisalabad, PK",,3.5,990,45,,,Water & Amusement Parks
+Historical Heritage,320.44km,222.8166667,NONE,"Lyallpur Museum, Faisalabad, PK",,4,222,46,,,Museums
+"Relaxation,Romantic",323.19km,225.8,NONE,"D Ground Park, Faisalabad, PK",,1.5,43,47,,,Nature & Parks
+Historical Heritage,320.35km,224.0166667,NONE,"Clock Tower, Faisalabad, PK",,4.2,678,48,,,Points of Interest & Landmarks
+"Relaxation,Romantic",324.64km,227.3833333,NONE,"Pahari Grounds, Faisalabad, PK",,2,789,49,,,Nature & Parks
+"Relaxation,Adventureous ,Historical Heritage",604.39km,#VALUE!,NONE,"Altit Fort, Hunza, PK",,3.2,567,50,,,Nature & Parks
+"Relaxation,Adventureous ,Romantic",598.63km,#VALUE!,NONE,"Patundas Meadows, Hunza, PK",,3.8,245,51,,,Nature & Parks
+Adventureous ,598.63km,#VALUE!,NONE,"Hoper Valley, Hunza, PK",,4.5,890,52,,,Geologic Formations
+"Relaxation,Romantic,Adventureous ",598.63km,#VALUE!,NONE,"Borith Lake, Hunza, PK",,4.2,13,53,,,Bodies of Water
+"Adventureous ,Historical Heritage",703.64km,#VALUE!,NONE,"Kalam Darchi Fort, Hunza, PK",,1,123,54,,,Military Bases & Facilities
+"Adventureous ,Historical Heritage",604.39km,#VALUE!,NONE,"Altit Fort, Hunza, PK",,5,67,55,,,Historic Sites
+"Relaxation,Romantic,Adventureous ",708.42km,#VALUE!,NONE,"Shim Shal, Hunza, PK",,3.9,412,56,,,Sights & Landmarks
+"Adventureous ,Relaxation",598.63km,#VALUE!,NONE,"Hoper Valley, Hunza, PK",,4.8,25,57,,,Nature & Parks
+"Adventureous ,Relaxation",#VALUE!,#VALUE!,NONE,"Passu Glacier, Hunza, PK",,3.5,654,58,,,Nature & Parks
+"Adventureous ,Relaxation",#VALUE!,#VALUE!,NONE,"Batura Glacier, Hunza, PK",,2.9,134,59,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",598.63km,#VALUE!,NONE,"Gojal Valley, Hunza, PK",,1.7,560,60,,,Nature & Parks
+Adventureous ,637.09km,#VALUE!,NONE,"Hussaini Hanging Bridge, Hunza, PK",,5,348,61,,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",600.9km,#VALUE!,NONE,"Ganish, Hunza, PK",,3.7,48,62,,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",703.64km,#VALUE!,NONE,"Kalam Darchi Fort, Hunza, PK",,1.5,654,63,,,Sights & Landmarks
+"Relaxation,Romantic,Adventureous ",623.17km,#VALUE!,NONE,"Attabad lake, Hunza, PK",,4.2,56,64,,,Points of Interest & Landmarks
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Satrangi Lake, Hunza, PK",,2.2,158,65,,,Bodies of Water
+Adventureous ,598.63km,#VALUE!,NONE,"Hunza River, Hunza, PK",,4.6,652,66,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Satrangi Lake, Hunza, PK",,5,783,67,,,Nature & Parks
+"Adventureous ,Relaxation,Historical Heritage",#VALUE!,#VALUE!,NONE,"Kunjerab Pass, Hunza, PK",,4.9,482,68,,,Sights & Landmarks
+"Adventureous ,Relaxation,Historical Heritage",113.84km,125,NONE,"Rohtas Fort, Jehlum, PK",,4.2,890,69,,,Historic Sites
+Adventureous ,185.65km,154.2,NONE,"Khewra Salt Mine, Jehlum, PK",,1.9,656,70,,,Points of Interest & Landmarks
+"Relaxation,Romantic",199.19km,191.4666667,NONE,"Lalazar, Kaghan Valley, PK",,4.5,350,71,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",199.19km,191.4666667,NONE,"Lulusar Lake, Kaghan Valley, PK",,2,700,72,,,Nature & Parks
+"Adventureous ,Romantic",290.98km,380.4,NONE,"Saif-ul-malouk, Kaghan Valley, PK",,3.2,25,73,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gojal Valley, Kashmir, PK",,5,345,74,,,Valleys
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Patundas Meadows, Kashmir, PK",,4.8,120,75,,,Geologic Formations
+"Relaxation,Romantic",593.43km,#VALUE!,NONE,"Hunza River, Kashmir, PK",,1.5,456,76,,,Bodies of Water
+Historical Heritage,602.86km,#VALUE!,NONE,"Sacred Rocks of Hunza, Kashmir, PK",,3.5,990,77,,,Points of Interest & Landmarks
+"Historical Heritage,Adventureous ",604.39km,#VALUE!,NONE,"Altit Fort, Kashmir, PK",,4,222,78,,,Sights & Landmarks
+Historical Heritage,602.86km,#VALUE!,NONE,"Sacred Rocks of Hunza, Kashmir, PK",,1.5,43,79,,,Sights & Landmarks
+"Relaxation,Romantic",623.17km,#VALUE!,NONE,"Attabad lake, Kashmir, PK",,4.2,678,80,,,Scenic Walking Areas
+Relaxation,129.36km,153.45,NONE,"Bhutto Park, Kashmir, PK",,2,789,81,,,Nature & Parks
+Historical Heritage,134.12km,166.9333333,NONE,"Darbar E Aalia Khari Sharif, Kashmir, PK",,3.2,567,82,,,Sacred & Religious Sites
+Historical Heritage,134.12km,166.9333333,NONE,"Darbar E Aalia Khari Sharif, Kashmir, PK",,3.8,245,83,,,Sights & Landmarks
+Relaxation,138.63km,248.0666667,NONE,"Dhani Waterfall, Kashmir, PK",,4.5,890,84,,,Nature & Parks
+Relaxation,138.63km,248.0666667,NONE,"Dhani Waterfall, Kashmir, PK",,4.2,13,85,,,Waterfalls
+"Relaxation,Romantic",117.18km,196.4333333,NONE,"Dream Valley Resort, Kashmir, PK",,1,123,86,,,Nature & Parks
+"Relaxation,Romantic",117.18km,196.4333333,NONE,"Dream Valley Resort, Kashmir, PK",,5,67,87,,,Mountains
+"Relaxation,Romantic",117.18km,196.4333333,NONE,"Dream Valley Resort, Kashmir, PK",,3.9,412,88,,,Valleys
+Adventureous ,184.24km,307.8333333,NONE,"Ganga choti, Kashmir, PK",,4.8,25,89,,,Mountains
+Adventureous ,184.24km,307.8333333,NONE,"Ganga choti, Kashmir, PK",,3.5,654,90,,,Nature & Parks
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley , Kashmir, PK",,2.9,134,91,,,Scenic Drives
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley (Kel to Taobat), Kashmir, PK",,1.7,560,92,,,Sights & Landmarks
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley (Kel to Taobat), Kashmir, PK",,5,348,93,,,Nature & Parks
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley (Kel to Taobat), Kashmir, PK",,3.7,48,94,,,Nature & Wildlife Areas
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley (Kel to Taobat), Kashmir, PK",,1.5,654,95,,,Hiking Trails
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Gurez Valley (Kel to Taobat), Kashmir, PK",,4.2,56,96,,,Outdoor Activities
+Relaxation,149.73km,178.0333333,NONE,"Jari Kas Park, Kashmir, PK",,2.2,158,97,,,Nature & Parks
+Relaxation,149.73km,178.0333333,NONE,"Jari Kas Park, Kashmir, PK",,4.6,652,98,,,Fun & Games
+Relaxation,149.73km,178.0333333,NONE,"Jari Kas Park, Kashmir, PK",,5,783,99,,,Playgrounds
+Adventureous ,98.01km,142.1666667,NONE,"Kohala Bridge, Kashmir, PK",,4.9,482,100,,,Bridges
+Adventureous ,98.01km,142.1666667,NONE,"Kohala Bridge, Kashmir, PK",,4.2,890,101,,,Sights & Landmarks
+Adventureous ,124.61km,149.0333333,NONE,"Mangla Dam, Kashmir, PK",,1.9,656,102,,,Dams
+Adventureous ,124.61km,149.0333333,NONE,"Mangla Dam, Kashmir, PK",,4.5,350,103,,,Nature & Parks
+"Historical Heritage,Adventureous ",123.59km,147.7,NONE,"Mangla Fort, Kashmir, PK",,2,700,104,,,Historic Sites
+"Historical Heritage,Adventureous ",123.59km,147.7,NONE,"Mangla Fort, Kashmir, PK",,3.2,25,105,,,Sights & Landmarks
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Mazar Miran Mir Sarkar, Kashmir, PK",,5,345,106,,,Sights & Landmarks
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Mazar Miran Mir Sarkar, Kashmir, PK",,4.8,120,107,,,Historic Sites
+Historical Heritage,133.87km,162,NONE,"Mirpur Old City Ruins, Kashmir, PK",,1.5,456,108,,,Points of Interest & Landmarks
+Historical Heritage,133.87km,162,NONE,"Mirpur Old City Ruins, Kashmir, PK",,3.5,990,109,,,Historic Sites
+Historical Heritage,133.87km,162,NONE,"Mirpur Old City Ruins, Kashmir, PK",,4,222,110,,,Scenic Walking Areas
+Historical Heritage,133.87km,162,NONE,"Mirpur Old City Ruins, Kashmir, PK",,1.5,43,111,,,Sights & Landmarks
+Adventureous ,175.96km,273.7666667,NONE,"Neelum Jhelum Power Plant, Kashmir, PK",,4.2,678,112,,,Sights & Landmarks
+Adventureous ,175.96km,273.7666667,NONE,"Neelum Jhelum Power Plant, Kashmir, PK",,2,789,113,,,Points of Interest & Landmarks
+"Relaxation,Romantic",134.33km,195.3833333,NONE,"Neelum River, Kashmir, PK",,3.2,567,114,,,Nature & Parks
+"Relaxation,Romantic",134.33km,195.3833333,NONE,"Neelum River, Kashmir, PK",,3.8,245,115,,,Bodies of Water
+"Relaxation,Romantic",234.87km,405.5333333,NONE,"Neelum Valley, Kashmir, PK",,4.5,890,116,,,Nature & Parks
+"Relaxation,Romantic",234.87km,405.5333333,NONE,"Neelum Valley, Kashmir, PK",,4.2,13,117,,,Valleys
+Romantic,109.06km,176.15,NONE,"Nergola Waterfall, Kashmir, PK",,1,123,118,,,Nature & Wildlife Areas
+Romantic,109.06km,176.15,NONE,"Nergola Waterfall, Kashmir, PK",,5,67,119,,,Nature & Parks
+Romantic,109.06km,176.15,NONE,"Nergola Waterfall, Kashmir, PK",,3.9,412,120,,,Forests
+Romantic,109.06km,176.15,NONE,"Nergola Waterfall, Kashmir, PK",,4.8,25,121,,,More
+Romantic,109.06km,176.15,NONE,"Nergola Waterfall, Kashmir, PK",,3.5,654,122,,,Waterfalls
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Old Hindu Temple Mandar, Kashmir, PK",,2.9,134,123,,,Historic Sites
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Old Hindu Temple Mandar, Kashmir, PK",,1.7,560,124,,,Sacred & Religious Sites
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Old Hindu Temple Mandar, Kashmir, PK",,5,348,125,,,Points of Interest & Landmarks
+Historical Heritage,#VALUE!,#VALUE!,NONE,"Old Hindu Temple Mandar, Kashmir, PK",,3.7,48,126,,,Sights & Landmarks
+"Relaxation,Romantic",159.94km,251.3,NONE,"Peer Chanasi, Kashmir, PK",,1.5,654,127,,,Nature & Parks
+"Relaxation,Romantic",159.94km,251.3,NONE,"Peer Chanasi, Kashmir, PK",,4.2,56,128,,,Mountains
+"Relaxation,Romantic",160.66km,253.2833333,NONE,"Pir Chinasi, Kashmir, PK",,2.2,158,129,,,Mountains
+"Relaxation,Romantic",160.66km,253.2833333,NONE,"Pir Chinasi, Kashmir, PK",,4.6,652,130,,,Nature & Parks
+Historical Heritage,133.29km,160.3,NONE,"Quaid E Azam Stadium, Kashmir, PK",,5,783,131,,,Arenas & Stadiums
+Historical Heritage,133.29km,160.3,NONE,"Quaid E Azam Stadium, Kashmir, PK",,4.9,482,132,,,Sights & Landmarks
+Relaxation,#VALUE!,#VALUE!,NONE,"Quaid-e-Azam Tourist Lodge, Kashmir, PK",,4.2,890,133,,,Points of Interest & Landmarks
+Relaxation,#VALUE!,#VALUE!,NONE,"Quaid-e-Azam Tourist Lodge, Kashmir, PK",,1.9,656,134,,,Sights & Landmarks
+"Adventureous ,Historical Heritage",113.89km,179.3833333,NONE,"Ramkot Fort, Kashmir, PK",,4.5,350,135,,,Sights & Landmarks
+"Adventureous ,Historical Heritage",113.89km,179.3833333,NONE,"Ramkot Fort, Kashmir, PK",,2,700,136,,,Historic Sites
+"Adventureous ,Historical Heritage",113.89km,179.3833333,NONE,"Ramkot Fort, Kashmir, PK",,3.2,25,137,,,Castles
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Ratti Gali Lake, Kashmir, PK",,5,345,138,,,Bodies of Water
+"Adventureous ,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Ratti Gali Lake, Kashmir, PK",,4.8,120,139,,,Nature & Parks
+"Adventureous ,Historical Heritage",137.5km,206.8166667,NONE,"Red Fort, Kashmir, PK",,1.5,456,140,,,Points of Interest & Landmarks
+"Adventureous ,Historical Heritage",137.5km,206.8166667,NONE,"Red Fort, Kashmir, PK",,3.5,990,141,,,Historic Sites
+"Adventureous ,Historical Heritage",137.5km,206.8166667,NONE,"Red Fort, Kashmir, PK",,4,222,142,,,Sights & Landmarks
+Historical Heritage,371.26km,525.35,NONE,"Sharda Peeth, Kashmir, PK",,1.5,43,143,,,Historic Sites
+Historical Heritage,371.26km,525.35,NONE,"Sharda Peeth, Kashmir, PK",,4.2,678,144,,,Sacred & Religious Sites
+Historical Heritage,371.26km,525.35,NONE,"Sharda Peeth, Kashmir, PK",,2,789,145,,,Ancient Ruins
+Historical Heritage,371.26km,525.35,NONE,"Sharda Peeth, Kashmir, PK",,3.2,567,146,,,Sights & Landmarks
+Historical Heritage,371.26km,525.35,NONE,"Sharda Peeth, Kashmir, PK",,3.8,245,147,,,Points of Interest & Landmarks
+"Relaxation,Romantic,Adventureous ",414.95km,#VALUE!,NONE,"Shounter Valley, Kashmir, PK",,4.5,890,148,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",414.95km,#VALUE!,NONE,"Shounter Valley, Kashmir, PK",,4.2,13,149,,,Outdoor Activities
+"Relaxation,Romantic,Adventureous ",414.95km,#VALUE!,NONE,"Shounter Valley, Kashmir, PK",,1,123,150,,,Hiking Trails
+"Relaxation,Romantic,Adventureous ",414.95km,#VALUE!,NONE,"Shounter Valley, Kashmir, PK",,5,67,151,,,Off-Road & ATV Trails
+"Relaxation,Romantic,Adventureous ",414.95km,#VALUE!,NONE,"Shounter Valley, Kashmir, PK",,3.9,412,152,,,Valleys
+"Adventureous ,Relaxation",142.16km,275.5,NONE,"Toli Pir, Kashmir, PK",,4.8,25,153,,,Mountains
+"Adventureous ,Relaxation",142.16km,275.5,NONE,"Toli Pir, Kashmir, PK",,3.5,654,154,,,Nature & Parks
+Historical Heritage,201.47km,162.4833333,NONE,"Bab-e-Khyber, Khyber Agency, PK",,2.9,134,155,,,Sights & Landmarks
+"Adventureous ,Relaxation",#VALUE!,#VALUE!,NONE,"Hindu Kush Mountains, KPK, PK",,1.7,560,156,,,Nature & Parks
+Historical Heritage,374.48km,260.0333333,NONE,"Akbari Sarai, Lahore, PK",,5,348,157,,,Sights & Landmarks
+Historical Heritage,372.72km,257.5666667,NONE,"Governor House, Lahore, PK",,3.7,48,158,,,Sights & Landmarks
+Historical Heritage,372.64km,258.6,NONE,"Aitchison College Lahore, Lahore, PK",,1.5,654,159,,,Sights & Landmarks
+"Historical Heritage,Relaxation",361.36km,251.55,NONE,"Badshahi Mosque, Lahore, PK",,4.2,56,160,,,Sights & Landmarks
+"Historical Heritage,Relaxation",361.98km,250.5666667,NONE,"Minar-e-Pakistan, Lahore, PK",,2.2,158,161,,,Sights & Landmarks
+"Historical Heritage,Relaxation",361.48km,252.2166667,NONE,"Alamgiri Gate, Lahore, PK",,4.6,652,162,,,Sights & Landmarks
+Historical Heritage,370.53km,256.3333333,NONE,"Shahi Hammam, Lahore, PK",,5,783,163,,,Sights & Landmarks
+Historical Heritage,361.8km,253.4833333,NONE,"Bhatti Gate, Lahore, PK",,4.9,482,164,,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",380.44km,253.0333333,NONE,"Fort and Shalamar Gardens, Lahore, PK",,4.2,890,165,,,Nature & Parks
+"Adventureous ,Historical Heritage",387.7km,261.1833333,NONE,"Wagah Border, Lahore, PK",,1.9,656,166,,,Sights & Landmarks
+Historical Heritage,361.48km,252.2166667,NONE,"Roshnai Gate, Lahore, PK",,4.5,350,167,,,Sights & Landmarks
+Historical Heritage,361.48km,252.2166667,NONE,"Gurudwara Dera Sahib, Lahore, PK",,2,700,168,,,Sights & Landmarks
+Historical Heritage,370.53km,256.3333333,NONE,"Wazir Khan Hammam, Lahore, PK",,3.2,25,169,,,Sights & Landmarks
+Historical Heritage,361.38km,251.65,NONE,"Tomb of Muhammad Iqbal, Lahore, PK",,5,345,170,,,Sights & Landmarks
+Historical Heritage,369.06km,250.3666667,NONE,"General Post Office Lahore, Lahore, PK",,4.8,120,171,,,Sights & Landmarks
+Historical Heritage,363.21km,260.1,NONE,"Masjid Wazir Khan (Wazir Khan Mosque), Lahore, PK",,1.5,456,172,,,Sights & Landmarks
+Historical Heritage,371.22km,256.9666667,NONE,"Summit Minar, Lahore, PK",,3.5,990,173,,,Sights & Landmarks
+Historical Heritage,368.14km,249.0833333,NONE,"Anarkali's Tomb, Lahore, PK",,4,222,174,,,Sights & Landmarks
+"Relaxation,Romantic",386.21km,265.9833333,NONE,"Eiffel Tower Replica, Lahore, PK",,1.5,43,175,,,Sights & Landmarks
+Historical Heritage,361.95km,254.1833333,NONE,"Mosque of Mariyam Zamani Begum, Lahore, PK",,4.2,678,176,,,Sights & Landmarks
+Historical Heritage,370.87km,257.4333333,NONE,"Delhi Gate, Lahore, PK",,2,789,177,,,Sights & Landmarks
+Historical Heritage,370.75km,253.3166667,NONE,"Tomb of Shah Jamal, Lahore, PK",,3.2,567,178,,,Sights & Landmarks
+Historical Heritage,366.58km,244.0166667,NONE,"Chauburji, Lahore, PK",,3.8,245,179,,,Sights & Landmarks
+Historical Heritage,367.95km,245.9,NONE,"Ali Hajvery's Tomb, Lahore, PK",,4.5,890,180,,,Sights & Landmarks
+Historical Heritage,368.76km,248.8333333,NONE,"Lohari Gate, Lahore, PK",,4.2,13,181,,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",367.79km,247.85,NONE,"Food Street Taxali, Lahore, PK",,1,123,182,,,"Sights & Landmarks,Food"
+"Historical Heritage,Adventureous ",156km,131.5,NONE,"Takht-i-Bahi, Mardan, PK",,5,67,183,,,Sights & Landmarks
+Historical Heritage,544.28km,355.8333333,NONE,"Tomb of Bahauddin Zakariya, Multan, PK",,3.9,412,184,,,Sights & Landmarks
+"Historical Heritage,Relaxation",537.73km,356.4,NONE,"Multan Arts Council, Multan, PK",,4.8,25,185,,,Sights & Landmarks
+"Relaxation,Romantic",563.93km,365.7166667,NONE,"Cantonment Garden, Multan, PK",,3.5,654,186,,,Nature & Parks
+Historical Heritage,543.86km,358.35,NONE,"Shrine Khawaja Awais Kagha, Multan, PK",,2.9,134,187,,,Sights & Landmarks
+"Relaxation,Romantic",563.78km,364.95,NONE,"CSD Park, Multan, PK",,1.7,560,188,,,Nature & Parks
+Historical Heritage,543.42km,352.5833333,NONE,"Dolat Gate, Multan, PK",,5,348,189,,,Sights & Landmarks
+Historical Heritage,544.44km,356.4833333,NONE,"Nigar Khana, Multan, PK",,3.7,48,190,,,Sights & Landmarks
+Historical Heritage,534.4km,352.95,NONE,"Tomb Shah Shams Sabzwari Tabrez, Multan, PK",,1.5,654,191,,,Sights & Landmarks
+"Relaxation,Romantic",537.98km,357.8833333,NONE,"United Mall, Multan, PK",,4.2,56,192,,,Shopping
+Historical Heritage,542.98km,354.2333333,NONE,"Delhi Gate, Multan, PK",,2.2,158,193,,,Sights & Landmarks
+Historical Heritage,539.76km,359.3,NONE,"Tomb Shah Ali Akbar, Multan, PK",,4.6,652,194,,,Sights & Landmarks
+"Relaxation,Romantic",567.34km,361.1166667,NONE,"Chenab West Bank Park, Multan, PK",,5,783,195,,,Nature & Parks
+Historical Heritage,536.83km,340.3666667,NONE,"Char Minar Masjid, Multan, PK",,4.9,482,196,,,Sights & Landmarks
+Historical Heritage,536.42km,354.8833333,NONE,"Ghanta Ghar, Multan, PK",,4.2,890,197,,,Sights & Landmarks
+Historical Heritage,537.1km,357.5333333,NONE,"Shrine of Mai Maharban, Multan, PK",,1.9,656,198,,,Sights & Landmarks
+Historical Heritage,543.68km,356.95,NONE,"Haram Gate, Multan, PK",,4.5,350,199,,,Sights & Landmarks
+"Relaxation,Romantic",542.27km,366.0666667,NONE,"Chaman Zar Askari Lake Park, Multan, PK",,2,700,200,,,Water & Amusement Parks
+Historical Heritage,544.28km,355.8333333,NONE,"Mausoleum of Bibi Pak Daman, Multan, PK",,3.2,25,201,,,Sights & Landmarks
+Historical Heritage,536.87km,356.3166667,NONE,"Shrine of Shah Yusuf Gardezi, Multan, PK",,5,345,202,,,Sights & Landmarks
+Historical Heritage,536.56km,355.4666667,NONE,"Tomb Shah Rukne Alam, Multan, PK",,4.8,120,203,,,Sights & Landmarks
+Historical Heritage,536.5km,355.2166667,NONE,"Fort Kohna, Multan, PK",,1.5,456,204,,,Sights & Landmarks
+"Adventureous ,Relaxation,Romantic",290.98km,380.4,NONE,"Saif-ul-Muluk Lake, Naran, PK",,3.5,990,205,,,Nature & Parks
+"Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Lulusar-Dudipatsar National Park, Naran, PK",,4,222,206,,,Nature & Parks
+"Historical Heritage,Relaxation",455km,339.5333333,NONE,"Kartarpur Sahib Corridor, Narowal, PK",,1.5,43,207,,,Points of Interest & Landmarks
+Historical Heritage,178.56km,130.4,NONE,"Chowk Yadgar, Peshawar, PK",,4.2,678,208,,,Sights & Landmarks
+Historical Heritage,179.84km,131.3,NONE,"Peshawar Gandhara Museum, Peshawar, PK",,2,789,209,,,Museums
+Historical Heritage,230.49km,198.35,NONE,"Khyber Pass, Peshawar, PK",,3.2,567,210,,,Sights & Landmarks
+Historical Heritage,189.05km,151.6666667,NONE,"Islamia College, Peshawar, PK",,3.8,245,211,,,Sights & Landmarks
+Historical Heritage,178.27km,131.45,NONE,"Sethi House Museum, Peshawar, PK",,4.5,890,212,,,Museums
+Historical Heritage,178.01km,130.7666667,NONE,"Mughal -Caravanserai Gor Khatri, Peshawar, PK",,4.2,13,213,,,Sights & Landmarks
+"Historical Heritage,Relaxation",207.24km,170.3833333,NONE,"Warsak Dam, Peshawar, PK",,1,123,214,,,Nature & Parks
+Historical Heritage,178.9km,130.7333333,NONE,"Mahabat Khan's Mosque, Peshawar, PK",,5,67,215,,,Sights & Landmarks
+"Historical Heritage,Relaxation",202.54km,165.3166667,NONE,"Jamrud Fort, Peshawar, PK",,3.9,412,216,,,Sights & Landmarks
+Historical Heritage,178.26km,131.4,NONE,"Sethi Street, Peshawar, PK",,4.8,25,217,,,Sights & Landmarks
+Historical Heritage,180.56km,133.6333333,NONE,"Governor's House, Peshawar, PK",,3.5,654,218,,,Sights & Landmarks
+Romantic,195.76km,151.45,NONE,"Tatara Park, Peshawar, PK",,2.9,134,219,,,Nature & Parks
+Historical Heritage,188.41km,144.5333333,NONE,"Kohat Pass : Tribal Gun Factories, Peshawar, PK",,1.7,560,220,,,Sights & Landmarks
+Historical Heritage,179.64km,132.8833333,NONE,"Qissa Khawani Bazaar, Peshawar, PK",,5,348,221,,,Shopping
+Historical Heritage,178.65km,128.9833333,NONE,"Fort Bala Hisar, Peshawar, PK",,3.7,48,222,,,Sights & Landmarks
+Historical Heritage,178.7km,132.15,NONE,"Cunningham Clock Tower, Peshawar, PK",,1.5,654,223,,,Sights & Landmarks
+Historical Heritage,179.18km,130.05,NONE,"Shahi Bagh Gardens, Peshawar, PK",,4.2,56,224,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",189.89km,154.35,NONE,"Peshawar Zoo, Peshawar, PK",,2.2,158,225,,,Outdoor Activities
+"Relaxation,Romantic",180.93km,136.8,NONE,"Wazir Bagh Gardens, Peshawar, PK",,4.6,652,226,,,Nature & Parks
+"Relaxation,Romantic",181.73km,136.8166667,NONE,"Khalid Bin Waled Park, Peshawar, PK",,5,783,227,,,Nature & Parks
+Historical Heritage,160.01km,117.0833333,NONE,"Pushkalavati Museum, Peshawar, PK",,4.9,482,228,,,Museums
+Historical Heritage,183.05km,142.3,NONE,"Buddhist Stupa (Sahji Ki Dheri), Peshawar, PK",,4.2,890,229,,,Sights & Landmarks
+Historical Heritage,179.18km,133.3166667,NONE,"St John's Church, Peshawar, PK",,1.9,656,230,,,Sights & Landmarks
+Historical Heritage,158.41km,107.1166667,NONE,"Mughal Bridge, Peshawar, PK",,4.5,350,231,,,Sights & Landmarks
+Historical Heritage,180.92km,134.9166667,NONE,"Ander Sher Bazaar, Peshawar, PK",,2,700,232,,,Shopping
+Historical Heritage,235.76km,206.55,NONE,"Sphola Stupa, Peshawar, PK",,3.2,25,233,,,Sights & Landmarks
+Historical Heritage,180.57km,135.2666667,NONE,"Durrani Graveyard, Peshawar, PK",,5,345,234,,,Sights & Landmarks
+Historical Heritage,178.65km,128.9833333,NONE,"Balahisar Attock Fort, Peshawar, PK",,4.8,120,235,,,Sights & Landmarks
+Historical Heritage,231.76km,271.65,NONE,"Iqbal Manzil, Sialkot, PK",,1.5,456,236,,,Historic Sites
+Historical Heritage,232.03km,272.9,NONE,"Shawala Teja Singh Temple, Sialkot, PK",,3.5,990,237,,,Temple
+Historical Heritage,233.32km,269.4833333,NONE,"Clock Tower, Sialkot, PK",,4,222,238,,,Points of Interest & Landmarks
+Historical Heritage,233.7km,273.0666667,NONE,"Sialkot Fort, Sialkot, PK",,1.5,43,239,,,Historic Sites
+"Relaxation,Historical Heritage",327.23km,373.3833333,NONE,"Kalam Bazaar, Swat, PK",,4.2,678,240,,,Shopping
+"Adventureous ,Relaxation,Romantic",385.71km,479.75,NONE,"Kumrat Valley Upper Dir Kohistan, Upper Dir, PK",,2,789,241,,,Sights & Landmarks
+"Adventureous ,Relaxation,Romantic",473.57km,355.3166667,NONE,"Thandiani, Abbottabad, PK",,3.2,567,242,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",454.47km,409.0833333,NONE,"Dunga Gali Pine Line Track, Abbottabad, PK",,3.8,245,243,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",455.41km,411,NONE,"Mukshpuri Top, Abbottabad, PK",,4.5,890,244,,,Outdoor Activities
+"Adventureous ,Relaxation,Romantic",507.67km,428.4333333,NONE,"Miranjani, Abbottabad, PK",,4.2,13,245,,,Nature & Parks
+Historical Heritage,467.45km,342.1833333,NONE,"Old Lockhart House, Abbottabad, PK",,1,123,246,,,Sights & Landmarks
+"Relaxation,Romantic",502.04km,410.25,NONE,"Green Spot, Abbottabad, PK",,5,67,247,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",447.58km,395.9833333,NONE,"Ayubia Chairlift, Ayubia, PK",,3.9,412,248,,,Sights & Landmarks
+"Relaxation,Romantic ",424.17km,305.0166667,NONE,"Bahawalpur Trade Center, Bhawalpur, PK",,4.8,25,249,,,Shopping
+Historical Heritage,382.33km,285.9166667,NONE,"Abbasi Mosque, Bhawalpur, PK",,3.5,654,250,,,Sights & Landmarks
+"Historical Heritage,Relaxation,Romantic",459.95km,324.1666667,NONE,"Head Panjnad, Bhawalpur, PK",,2.9,134,251,,,Sights & Landmarks
+"Relaxation,Romantic",424.52km,306.65,NONE,"Gulzar-e-Sadiq, Bhawalpur, PK",,1.7,560,252,,,Nature & Parks
+"Relaxation,Romantic",480.05km,370.6833333,NONE,"Lal Suhanra National Park, Bhawalpur, PK",,5,348,253,,,Nature & Parks
+"Relaxation,Romantic",423.27km,303.5166667,NONE,"Bahawalpur Zoo, Bhawalpur, PK",,3.7,48,254,,,Outdoor Activities
+Historical Heritage,514.54km,388.2166667,NONE,"The Abbasi Royal Graveyard, Bhawalpur, PK",,1.5,654,255,,,Sights & Landmarks
+"Historical Heritage,Relaxation",426.73km,313.15,NONE,"Noor Mahal, Bhawalpur, PK",,4.2,56,256,,,Sights & Landmarks
+Historical Heritage,457.93km,317.9833333,NONE,"Tomb of Bibi Jawindi, Bhawalpur, PK",,2.2,158,257,,,Sights & Landmarks
+Historical Heritage,425.19km,307.4,NONE,"Darbar Mahal, Bhawalpur, PK",,4.6,652,258,,,Sights & Landmarks
+Historical Heritage,431.06km,317.15,NONE,"Jalaluddin Surkh-Posh Bukhari, Bhawalpur, PK",,5,783,259,,,Sights & Landmarks
+Historical Heritage,424.22km,306.6833333,NONE,"Jamia Masjid Al Sadiq, Bhawalpur, PK",,4.9,482,260,,,Sights & Landmarks
+Historical Heritage,334.82km,290.35,NONE,"Islam Barrage, Bhawalpur, PK",,4.2,890,261,,,Sights & Landmarks
+"Historical Heritage,Adventureous ",514.61km,388.2333333,NONE,"Derawar Fort, Bhawalpur, PK",,1.9,656,262,,,Sights & Landmarks
+"Relaxation,Romantic,Adventureous ",424.57km,306.6,NONE,"Ss World Park, Bhawalpur, PK",,4.5,350,263,,,Water & Amusement Parks
+"Relaxation,Romantic,Adventureous ",681.82km,#VALUE!,NONE,"Babusar Pass, Chillas, PK",,2,700,264,,,Sights & Landmarks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",723.79km,#VALUE!,NONE,"Chitral Valley, Chitral, PK",,3.2,25,265,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",736.03km,#VALUE!,NONE,"Bumburet Valley, Chitral, PK",,5,345,266,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",#VALUE!,#VALUE!,NONE,"Chitral Gol National Park, Chitral, PK",,4.8,120,267,,,Nature & Parks
+"Relaxation,Adventureous ,Historical Heritage",881.29km,#VALUE!,NONE,"Shandur Pass, Chitral, PK",,1.5,456,268,,,Outdoor Activities
+"Relaxation,Romantic,Adventureous ",779.88km,#VALUE!,NONE,"Garam Chashma, Chitral, PK",,3.5,990,269,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",#VALUE!,#VALUE!,NONE,"Karambar Lake, Chitral, PK",,4,222,270,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ,Historical Heritage",725.91km,#VALUE!,NONE,"Kalasha Valleys, Chitral, PK",,1.5,43,271,,,Nature & Parks
+"Relaxation,Adventureous ",#VALUE!,#VALUE!,NONE,"Tirich Mir, Chitral, PK",,4.2,678,272,,,Nature & Parks
+"Relaxation,Romantic,Adventureous ",733.43km,#VALUE!,NONE,"Rumbur valley, Chitral, PK",,2,789,273,,,Nature & Parks
+Historical Heritage,176.79km,138.9166667,NONE,"University of Agriculture, Faisalabad, PK",,3.2,567,274,,,Sights & Landmarks
+Historical Heritage,185.73km,158.35,NONE,"Government College University Faisalabad, Faisalabad, PK",,3.8,245,275,,,Sights & Landmarks
+Historical Heritage,184.52km,154.5666667,NONE,"Gumti Water Fountain, Faisalabad, PK",,4.5,890,276,,,Monuments & Statues
+"Adventureous ,Romantic",182.95km,151,NONE,"Sindbad Amusement Park, Faisalabad, PK",,4.2,13,277,,,Water & Amusement Parks
+"Adventureous ,Romantic",182.95km,151,NONE,"Sindbad Amusement Park, Faisalabad, PK",,1,123,278,,,Theme Parks
+Romantic,184.03km,154.3666667,NONE,"Jinnah Gardens, Faisalabad, PK",,5,67,279,,,Gardens
+Relaxation,173.14km,136.7833333,NONE,"Gatwala Wildlife Park, Faisalabad, PK",,3.9,412,280,,,Nature & Parks
+"Relaxation,Romantic",145.96km,153.5,NONE,"Kohinoor One, Faisalabad, PK",,4.8,25,281,,,Shopping Malls
+"Relaxation,Romantic",183.48km,153.4333333,NONE,"Abdulrehman resort, Faisalabad, PK",,3.5,654,282,,,Water & Amusement Parks
+"Relaxation,Romantic",184.03km,154.3666667,NONE,"Jinnah Gardens, Faisalabad, PK",,2.9,134,283,,,Nature & Parks
+"Relaxation,Romantic",146.76km,155.1,NONE,"Sitara Mall, Faisalabad, PK",,1.7,560,284,,,Shopping Malls
+Historical Heritage,184.19km,154.5833333,NONE,"Sir Charles James Lyall Monument, Faisalabad, PK",,5,348,285,,,Monuments & Statues
+"Adventureous ,Romantic",181.67km,147.8,NONE,"Aqua Land Water Park Majorca, Faisalabad, PK",,3.7,48,286,,,Water & Amusement Parks
+Historical Heritage,184.59km,154.6166667,NONE,"Lyallpur Museum, Faisalabad, PK",,1.5,654,287,,,Museums
+"Relaxation,Romantic",146.23km,153.6333333,NONE,"D Ground Park, Faisalabad, PK",,4.2,56,288,,,Nature & Parks
+Historical Heritage,184.49km,155.8166667,NONE,"Clock Tower, Faisalabad, PK",,2.2,158,289,,,Points of Interest & Landmarks
+"Relaxation,Romantic",148.21km,159.8666667,NONE,"Pahari Grounds, Faisalabad, PK",,4.6,652,290,,,Nature & Parks
+Historical Heritage,176.79km,138.9166667,NONE,"University of Agriculture, Faisalabad, PK",,5,783,291,,,Sights & Landmarks
+Historical Heritage,185.73km,158.35,NONE,"Government College University Faisalabad, Faisalabad, PK",,4.9,482,292,,,Sights & Landmarks
+Historical Heritage,184.52km,154.5666667,NONE,"Gumti Water Fountain, Faisalabad, PK",,4.2,890,293,,,Monuments & Statues
+"Adventureous ,Romantic",182.95km,151,NONE,"Sindbad Amusement Park, Faisalabad, PK",,1.9,656,294,,,Water & Amusement Parks
+"Adventureous ,Romantic",182.95km,151,NONE,"Sindbad Amusement Park, Faisalabad, PK",,4.5,350,295,,,Theme Parks
+Romantic,184.03km,154.3666667,NONE,"Jinnah Gardens, Faisalabad, PK",,2,700,296,,,Gardens
+Relaxation,173.14km,136.7833333,NONE,"Gatwala Wildlife Park, Faisalabad, PK",,3.2,25,297,,,Nature & Parks
+"Relaxation,Romantic",145.96km,153.5,NONE,"Kohinoor One, Faisalabad, PK",,5,345,298,,,Shopping Malls
+"Relaxation,Romantic",183.48km,153.4333333,NONE,"Abdulrehman resort, Faisalabad, PK",,4.8,120,299,,,Water & Amusement Parks
+"Relaxation,Romantic",184.03km,154.3666667,NONE,"Jinnah Gardens, Faisalabad, PK",,1.5,456,300,,,Nature & Parks
+"Relaxation,Romantic",146.76km,155.1,NONE,"Sitara Mall, Faisalabad, PK",,3.5,990,301,,,Shopping Malls
+Historical Heritage,184.19km,154.5833333,NONE,"Sir Charles James Lyall Monument, Faisalabad, PK",,4,222,302,,,Monuments & Statues
+"Adventureous ,Romantic",181.67km,147.8,NONE,"Aqua Land Water Park Majorca, Faisalabad, PK",,1.5,43,303,,,Water & Amusement Parks
+Historical Heritage,184.59km,154.6166667,NONE,"Lyallpur Museum, Faisalabad, PK",,4.2,678,304,,,Museums
+"Relaxation,Romantic",146.23km,153.6333333,NONE,"D Ground Park, Faisalabad, PK",,2,789,305,,,Nature & Parks
+Historical Heritage,184.49km,155.8166667,NONE,"Clock Tower, Faisalabad, PK",,3.2,567,306,,,Points of Interest & Landmarks
+"Relaxation,Romantic",148.21km,159.8666667,NONE,"Pahari Grounds, Faisalabad, PK",,3.8,245,307,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",383.03km,273.5666667,NONE,"Trail 6, Islamabad, PK",,4.5,890,308,,,Nature & Parks
+Adventureous ,386.37km,289.8,NONE,"Shah Allah Ditta Caves, Islamabad, PK",,4.2,13,309,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",382.85km,274.05,NONE,"Shakarpariyan Hills, Islamabad, PK",,1,123,310,,,Nature & Parks
+Historical Heritage,380.92km,268.5666667,NONE,"Fatima Church, Islamabad, PK",,5,67,311,,,Sights & Landmarks
+Adventureous ,385.9km,277.45,NONE,"Trail 3, Islamabad, PK",,3.9,412,312,,,Outdoor Activities
+Historical Heritage,379.69km,267.4333333,NONE,"Pakistan monument, Islamabad, PK",,4.8,25,313,,,Sights & Landmarks
+Historical Heritage,389.34km,283.6833333,NONE,"Quaid-i-Azam University, Islamabad, PK",,3.5,654,314,,,Sights & Landmarks
+Historical Heritage,381.83km,269.3166667,NONE,"Lok Virsa Museum, Islamabad, PK",,2.9,134,315,,,Museums
+"Adventureous ,Relaxation,Romantic",387.64km,281.6166667,NONE,"Daman-e-Koh, Islamabad, PK",,1.7,560,316,,,Sights & Landmarks
+Historical Heritage,381.54km,268.75,NONE,"Pakistan Museum of Natural History, Islamabad, PK",,5,348,317,,,Museums
+Relaxation,386.24km,279.8666667,NONE,"Bird Aviary, Islamabad, PK",,3.7,48,318,,,Nature & Parks
+Adventureous ,414.09km,325.3833333,NONE,"Simly Dam, Islamabad, PK",,1.5,654,319,,,Nature & Parks
+Historical Heritage,387.28km,285.5666667,NONE,"Bari Imam Shrine, Islamabad, PK",,4.2,56,320,,,Sights & Landmarks
+"Relaxation,Romantic",386.29km,279.8333333,NONE,"Lake View Park, Islamabad, PK",,2.2,158,321,,,Nature & Parks
+"Adventureous ,Romantic",383.15km,282.05,NONE,"Margalla Hills, Islamabad, PK",,4.6,652,322,,,Sights & Landmarks
+Adventureous ,389.1km,289.2333333,NONE,"Trail 5, Islamabad, PK",,5,783,323,,,Outdoor Activities
+Historical Heritage,382.53km,290.45,NONE,"Giga Mall, Islamabad, PK",,4.9,482,324,,,Shopping
+"Relaxation,Romantic",387.39km,280.1833333,NONE,"Rawal Lake, Islamabad, PK",,4.2,890,325,,,Nature & Parks
+"Relaxation,Romantic",388.57km,281.75,NONE,"Pir Sohawa, Islamabad, PK",,1.9,656,326,,,Nature & Parks
+Historical Heritage,371.07km,261.45,NONE,"Pakistan Railways Heritage Museum, Islamabad, PK",,4.5,350,327,,,Museums
+Historical Heritage,380.93km,270.9333333,NONE,"Pak China Friendship Center, Islamabad, PK",,2,700,328,,,Sights & Landmarks
+Relaxation,398.2km,292.8666667,NONE,"Bahria Enclave Zoo, Islamabad, PK",,3.2,25,329,,,Zoos & Aquariums
+Historical Heritage,383.22km,273.3666667,NONE,"Pakistan Monument Museum, Islamabad, PK",,5,345,330,,,Museums
+Historical Heritage,382.89km,273.2833333,NONE,"Faisal Mosque, Islamabad, PK",,4.8,120,331,,,Sights & Landmarks
+Relaxation,383.96km,273.7333333,NONE,"Islamabad Zoo, Islamabad, PK",,1.5,456,332,,,Nature & Parks
+"Romantic,Relaxation",385.1km,276.3333333,NONE,"Saidpur Village, Islamabad, PK",,3.5,990,333,,,Sights & Landmarks
+Historical Heritage,382.26km,272.0666667,NONE,"Safa Gold Mall, Islamabad, PK",,4,222,334,,,Shopping
+Relaxation,380.88km,270.8833333,NONE,"Rose and Jasmine Garden, Islamabad, PK",,1.5,43,335,,,Nature & Parks
+Relaxation,377.5km,268.1166667,NONE,"Fatima Jinnah Park, Islamabad, PK",,4.2,678,336,,,Nature & Parks
+"Adventureous ,Historical Heritage",243.52km,232.4,NONE,"Rohtas Fort, Jehlum, PK",,2,789,337,,,Historic Sites
+"Adventureous ,Historical Heritage",248.3km,202.0333333,NONE,"Khewra Salt Mine, Jehlum, PK",,3.2,567,338,,,Points of Interest & Landmarks
+"Relaxation,Romantic",533.6km,409.0666667,NONE,"Lalazar, Kaghan Valley, PK",,3.8,245,339,,,Nature & Parks
+"Adventureous ,Relaxation,Romantic",533.6km,409.0666667,NONE,"Lulusar Lake, Kaghan Valley, PK",,4.5,890,340,,,Nature & Parks
+"Adventureous ,Romantic",625.38km,#VALUE!,NONE,"Saif-ul-malouk, Kaghan Valley, PK",,4.2,13,341,,,Nature & Parks
+Historical Heritage,535.88km,380.0666667,NONE,"Bab-e-Khyber, Khyber Agency, PK",,1,123,342,,,Sights & Landmarks
+"Adventureous ,Relaxation",#VALUE!,#VALUE!,NONE,"Hindu Kush Mountains, KPK, PK",,5,67,343,,,Nature & Parks
+"Historical Heritage,Adventureous ",490.41km,349.1,NONE,"Takht-i-Bahi, Mardan, PK",,3.9,412,344,,,Sights & Landmarks
+Historical Heritage,345.53km,252.25,NONE,"Head Muhammad Wala, Multan, PK",,4.8,25,345,,,Sights & Landmarks
+"Historical Heritage,Relaxation",345.53km,248.8333333,NONE,"Tomb of Bahauddin Zakariya, Multan, PK",,3.5,654,346,,,Sights & Landmarks
+"Relaxation,Romantic",340.16km,237.4666667,NONE,"Multan Cricket Stadium, Multan, PK",,2.9,134,347,,,Sights & Landmarks
+Historical Heritage,338.99km,249.4166667,NONE,"Multan Arts Council, Multan, PK",,1.7,560,348,,,Sights & Landmarks
+"Relaxation,Romantic",365.18km,258.7333333,NONE,"Cantonment Garden, Multan, PK",,5,348,349,,,Nature & Parks
+Historical Heritage,339.57km,250.9833333,NONE,"Ahmad Shah Abdali's Birth Place Monument, Multan, PK",,3.7,48,350,,,Sights & Landmarks
+Historical Heritage,345.11km,251.35,NONE,"Shrine Khawaja Awais Kagha, Multan, PK",,1.5,654,351,,,Sights & Landmarks
+Historical Heritage,365.03km,257.9666667,NONE,"CSD Park, Multan, PK",,4.2,56,352,,,Nature & Parks
+"Relaxation,Romantic",344.67km,245.5833333,NONE,"Dolat Gate, Multan, PK",,2.2,158,353,,,Sights & Landmarks
+Historical Heritage,345.69km,249.4833333,NONE,"Nigar Khana, Multan, PK",,4.6,652,354,,,Sights & Landmarks
+Historical Heritage,335.65km,245.9666667,NONE,"Tomb Shah Shams Sabzwari Tabrez, Multan, PK",,5,783,355,,,Sights & Landmarks
+"Relaxation,Romantic",339.23km,250.9,NONE,"United Mall, Multan, PK",,4.9,482,356,,,Shopping
+Historical Heritage,345.6km,249.15,NONE,"Qila Kohna Qasim Bagh Stadium, Multan, PK",,4.2,890,357,,,Sights & Landmarks
+Historical Heritage,345.6km,249.15,NONE,"Ibne Qasim Cricket Stadium, Multan, PK",,1.9,656,358,,,Sights & Landmarks
+Historical Heritage,344.24km,247.2333333,NONE,"Delhi Gate, Multan, PK",,4.5,350,359,,,Sights & Landmarks
+Historical Heritage,341.02km,252.3166667,NONE,"Tomb Shah Ali Akbar, Multan, PK",,2,700,360,,,Sights & Landmarks
+"Relaxation,Romantic",368.59km,254.1333333,NONE,"Chenab West Bank Park, Multan, PK",,3.2,25,361,,,Nature & Parks
+Historical Heritage,338.09km,233.3666667,NONE,"Char Minar Masjid, Multan, PK",,5,345,362,,,Sights & Landmarks
+Historical Heritage,337.67km,247.9,NONE,"Ghanta Ghar, Multan, PK",,4.8,120,363,,,Sights & Landmarks
+Historical Heritage,338.36km,250.55,NONE,"Shrine of Mai Maharban, Multan, PK",,1.5,456,364,,,Sights & Landmarks
+Historical Heritage,338.09km,233.3666667,NONE,"Damdama, Multan, PK",,3.5,990,365,,,Sights & Landmarks
+"Relaxation,Romantic",364.66km,258.1833333,NONE,"Yadgar e Shuhada Park, Multan, PK",,4,222,366,,,Nature & Parks
+"Relaxation,Romantic",344.93km,249.95,NONE,"Haram Gate, Multan, PK",,1.5,43,367,,,Sights & Landmarks
+"Historical Heritage,Relaxation",336.23km,246.25,NONE,"Shah Shams Park, Multan, PK",,4.2,678,368,,,Nature & Parks
+Historical Heritage,343.52km,259.0833333,NONE,"Chaman Zar Askari Lake Park, Multan, PK",,2,789,369,,,Water & Amusement Parks
+Historical Heritage,345.53km,248.8333333,NONE,"Mausoleum of Bibi Pak Daman, Multan, PK",,3.2,567,370,,,Sights & Landmarks
+Historical Heritage,338.12km,249.3333333,NONE,"Shrine of Shah Yusuf Gardezi, Multan, PK",,3.8,245,371,,,Sights & Landmarks
+Historical Heritage,337.82km,248.4833333,NONE,"Tomb Shah Rukne Alam, Multan, PK",,4.5,890,372,,,Sights & Landmarks
+Historical Heritage,365.04km,258.6,NONE,"Multan Garrison Mess, Multan, PK",,4.2,13,373,,,Sights & Landmarks
+Historical Heritage,337.75km,248.2333333,NONE,"Fort Kohna, Multan, PK",,1,123,374,,,Sights & Landmarks
+"Historical Heritage,Relaxation",437.2km,351.25,NONE,"Kashmir Point, Muree, PK",,5,67,375,,,Sights & Landmarks
+Historical Heritage,446.47km,357.7166667,NONE,"Patriata Chair lift, Muree, PK",,3.9,412,376,,,Sights & Landmarks
+"Historical Heritage,Relaxation",437.89km,351.1166667,NONE,"GPO, Muree, PK",,4.8,25,377,,,"Sights & Landmarks, Historic"
+"Relaxation,Romantic",625.38km,#VALUE!,NONE,"Saif-ul-Muluk Lake, Naran, PK",,3.5,654,378,,,Nature & Parks
+"Historical Heritage,Relaxation,Romantic",#VALUE!,#VALUE!,NONE,"Lulusar-Dudipatsar National Park, Naran, PK",,2.9,134,379,,,Nature & Parks
+Historical Heritage,135.1km,157.9833333,NONE,"Kartarpur Sahib Corridor, Narowal, PK",,1.7,560,380,,,Points of Interest & Landmarks
+Historical Heritage,512.97km,347.9833333,NONE,"Chowk Yadgar, Peshawar, PK",,5,348,381,,,Sights & Landmarks
+Historical Heritage,514.24km,348.8833333,NONE,"Peshawar Gandhara Museum, Peshawar, PK",,3.7,48,382,,,Museums
+Historical Heritage,564.9km,415.9333333,NONE,"Khyber Pass, Peshawar, PK",,1.5,654,383,,,Sights & Landmarks
+Historical Heritage,523.45km,369.25,NONE,"Islamia College, Peshawar, PK",,4.2,56,384,,,Sights & Landmarks
+Historical Heritage,512.67km,349.0333333,NONE,"Sethi House Museum, Peshawar, PK",,2.2,158,385,,,Museums
+"Adventureous ,Relaxation,Romantic",512.42km,348.35,NONE,"Mughal -Caravanserai Gor Khatri, Peshawar, PK",,4.6,652,386,,,Sights & Landmarks
+"Relaxation,Romantic",541.65km,387.9666667,NONE,"Warsak Dam, Peshawar, PK",,5,783,387,,,Nature & Parks
+Historical Heritage,513.31km,348.3166667,NONE,"Mahabat Khan's Mosque, Peshawar, PK",,4.9,482,388,,,Sights & Landmarks
+Historical Heritage,536.95km,382.9,NONE,"Jamrud Fort, Peshawar, PK",,4.2,890,389,,,Sights & Landmarks
+Historical Heritage,512.66km,348.9833333,NONE,"Sethi Street, Peshawar, PK",,1.9,656,390,,,Sights & Landmarks
+Historical Heritage,514.97km,351.2166667,NONE,"Governor's House, Peshawar, PK",,4.5,350,391,,,Sights & Landmarks
+Historical Heritage,530.17km,369.0333333,NONE,"Tatara Park, Peshawar, PK",,2,700,392,,,Nature & Parks
+Historical Heritage,522.82km,362.1166667,NONE,"Kohat Pass : Tribal Gun Factories, Peshawar, PK",,3.2,25,393,,,Sights & Landmarks
+Historical Heritage,514.05km,350.4666667,NONE,"Qissa Khawani Bazaar, Peshawar, PK",,5,345,394,,,Shopping
+Historical Heritage,513.06km,346.5666667,NONE,"Fort Bala Hisar, Peshawar, PK",,4.8,120,395,,,Sights & Landmarks
+Historical Heritage,513.1km,349.7333333,NONE,"Cunningham Clock Tower, Peshawar, PK",,1.5,456,396,,,Sights & Landmarks
+Relaxation,513.59km,347.6333333,NONE,"Shahi Bagh Gardens, Peshawar, PK",,3.5,990,397,,,Nature & Parks
+Relaxation,524.3km,371.9333333,NONE,"Peshawar Zoo, Peshawar, PK",,4,222,398,,,Outdoor Activities
+"Relaxation,Romantic",515.34km,354.3833333,NONE,"Wazir Bagh Gardens, Peshawar, PK",,1.5,43,399,,,Nature & Parks
+Relaxation,516.14km,354.4,NONE,"Khalid Bin Waled Park, Peshawar, PK",,4.2,678,400,,,Nature & Parks
+Historical Heritage,494.42km,334.6666667,NONE,"Pushkalavati Museum, Peshawar, PK",,2,789,401,,,Museums
+Historical Heritage,517.46km,359.8833333,NONE,"Buddhist Stupa (Sahji Ki Dheri), Peshawar, PK",,3.2,567,402,,,Sights & Landmarks
+Historical Heritage,513.58km,350.9,NONE,"St John's Church, Peshawar, PK",,3.8,245,403,,,Sights & Landmarks
+"Historical Heritage,Adventureous ",492.81km,324.7166667,NONE,"Mughal Bridge, Peshawar, PK",,4.5,890,404,,,Sights & Landmarks
+Historical Heritage,515.33km,352.5,NONE,"Ander Sher Bazaar, Peshawar, PK",,4.2,13,405,,,Shopping
+Historical Heritage,570.17km,424.1333333,NONE,"Sphola Stupa, Peshawar, PK",,1,123,406,,,Sights & Landmarks
+Historical Heritage,514.98km,352.85,NONE,"Durrani Graveyard, Peshawar, PK",,5,67,407,,,Sights & Landmarks
+Historical Heritage,513.06km,346.5666667,NONE,"Balahisar Attock Fort, Peshawar, PK",,3.9,412,408,,,Sights & Landmarks
+Historical Heritage,131.36km,123.1,NONE,"Iqbal Manzil, Sialkot, PK",,4.8,25,409,,,Historic Sites
+Historical Heritage,131.39km,124,NONE,"Shawala Teja Singh Temple, Sialkot, PK",,3.5,654,410,,,Temple
+Historical Heritage,140.13km,129.4333333,NONE,"Clock Tower, Sialkot, PK",,2.9,134,411,,,Points of Interest & Landmarks
+"Historical Heritage,Adventureous ",131.72km,125.55,NONE,"Sialkot Fort, Sialkot, PK",,1.7,560,412,,,Historic Sites
+Historical Heritage,661.64km,#VALUE!,NONE,"Kalam Bazaar, Swat, PK",,5,348,413,,,Shopping
+Historical Heritage,378.33km,276.8,NONE,"Taxila Museum, Taxila, PK",,3.7,48,414,,,Museums
+Historical Heritage,385.28km,293.4833333,NONE,"Julian Buddhist Monastery, Taxila, PK",,1.5,654,415,,,Sights & Landmarks
+Historical Heritage,385.28km,293.4833333,NONE,"Taxila Ruins, Taxila, PK",,4.2,56,416,,,Sights & Landmarks
+Historical Heritage,380.61km,281.2,NONE,"Dharmarajika Stupa, Taxila, PK",,2.2,158,417,,,Sights & Landmarks
+Historical Heritage,380.19km,282.4333333,NONE,"Sirkap, Taxila, PK",,4.6,652,418,,,Sights & Landmarks
+"Adventureous ,Historical Heritage",380.24km,281,NONE,"Giri Fort, Taxila, PK",,5,783,419,,,Sights & Landmarks
+"Historical Heritage,Adventureous ",720.12km,#VALUE!,NONE,"Kumrat Valley Upper Dir Kohistan, Upper Dir, PK",,4.9,482,420,,,Sights & Landmarks
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

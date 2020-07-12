@@ -1,0 +1,1 @@
+{"ast":null,"code":"const baseUrl = true ? 'https://deployment-url.now.sh' : 'http://localhost:3000';\nexport default baseUrl;","map":null,"metadata":{},"sourceType":"module"}

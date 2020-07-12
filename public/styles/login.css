@@ -1,0 +1,77 @@
+
+.layout{
+  margin: 0 auto;
+  width: 500px;
+  margin-top: 50px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.content{
+  margin: 24px 16px 0;
+  overflow: initial; 
+}
+
+.site-layout-background {
+  text-align: center;
+  padding: 15px;
+}
+
+.input{
+  border-radius: 20px;
+}
+
+.App-logo{
+  width: 500px;
+  height: 500px;
+}
+
+  /* For Info Form Section */
+
+  .label{
+    margin: 20px;
+  }
+
+
+  .infoform-layout{
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 50px;
+    background-color: white;
+    border: 1px solid black;
+  }
+ 
+
+
+  .infoform-date{
+     width: 100%; 
+  }  
+
+ 
+
+.ui.text.container{
+
+  max-width: 100% !important;
+}
+.ui.container{
+  width: 100% !important;
+  margin: 0 !important;
+}
+.ui.card > .image > img, .ui.cards > .card > .image > img{
+  height: 300px;
+}
+.ui.card .meta, .ui.cards > .card .meta{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.places-form{
+  padding: 25px;
+}
+
+.recomend-button{
+  margin-left : 25px;
+}
